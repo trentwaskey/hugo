@@ -1,0 +1,14 @@
+---
+label: Blog
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  label: Body Content
+  name: body_content
+  description: Put body content here
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
