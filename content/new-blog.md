@@ -7,6 +7,7 @@ seo_description = "Descriptionnn"
 seo_no-follow = true
 title = "New blog"
 url = "/test/"
+nofollow = true
 
 +++
 this is the content
