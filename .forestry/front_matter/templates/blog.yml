@@ -37,3 +37,5 @@ fields:
   label: URL
   config:
     required: true
+pages:
+- content/new-blog.md
