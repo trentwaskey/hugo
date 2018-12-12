@@ -3,6 +3,27 @@ label: HTML Page
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Page Title
+  config:
+    required: true
+  default: New page
+- type: text
+  name: description
+  label: SEO Meta Description
+  config:
+    required: true
+- type: select
+  name: header_type
+  config:
+    source:
+      type: simple
+    options:
+    - light
+    - dark
+  label: Header Type
+  default: Light
 - type: file
   name: featured_image
   label: Featured Image
