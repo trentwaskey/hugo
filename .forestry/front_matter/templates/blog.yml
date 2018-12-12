@@ -27,3 +27,5 @@ fields:
     - Dark Header
     - Light Header
   label: Header Type
+pages:
+- content/test.md
