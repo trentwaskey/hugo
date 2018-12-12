@@ -10,3 +10,4 @@ title = "New blog"
 url = "/test/"
 
 +++
+this is the content
