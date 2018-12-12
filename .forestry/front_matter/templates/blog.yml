@@ -37,5 +37,3 @@ fields:
   label: URL
   config:
     required: true
-pages:
-- content/test.md
