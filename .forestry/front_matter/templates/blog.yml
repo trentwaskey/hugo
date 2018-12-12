@@ -32,5 +32,10 @@ fields:
     - Dark Header
     - Light Header
   label: Header Type
+- type: text
+  name: url
+  label: URL
+  config:
+    required: true
 pages:
 - content/test.md
