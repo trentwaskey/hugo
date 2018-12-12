@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.metricly.com"
 languageCode = "en-us"
-title = "Trent Test"
+title = "Welcome To Metricly"
 theme = "metricly"
