@@ -20,10 +20,10 @@ fields:
     source:
       type: simple
     options:
-    - Light
-    - Dark
-    - Light Padded
+    - light
+    - dark
   label: Header Type
+  default: Light
 - type: file
   name: featured_image
   label: Featured Image
