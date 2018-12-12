@@ -12,6 +12,11 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: datetime
+  name: publish_date
+  label: Publish Date
+  config:
+    required: true
 - type: text
   name: seo_description
   label: SEO Description
