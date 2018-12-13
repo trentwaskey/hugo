@@ -23,6 +23,7 @@ fields:
     - Dark Header
     - Light Header
   label: Header Type
+  default: Light Header
 - type: text
   name: url
   label: URL
