@@ -1,7 +1,7 @@
 +++
 date = "2018-12-12T16:14:06+00:00"
 description = "here is the new description"
-featured_image = "/uploads/capterra.png"
+featured_image = ""
 header_type = "light"
 title = "Demo"
 
