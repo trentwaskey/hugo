@@ -27,3 +27,5 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+pages:
+- content/demo.md
