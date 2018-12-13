@@ -33,5 +33,4 @@ fields:
   name: seo_no-follow
   label: SEO No-follow
 pages:
-- content/posts/test.md
 - content/new-blog.md
