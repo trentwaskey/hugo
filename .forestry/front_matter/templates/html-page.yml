@@ -36,3 +36,4 @@ fields:
   label: Footer CTA
 pages:
 - content/demo.md
+- content/posts/this.md
