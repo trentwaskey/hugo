@@ -14,6 +14,7 @@ fields:
   label: SEO Meta Description
   config:
     required: true
+  default: Default description here
 - type: select
   name: header_type
   config:
@@ -23,9 +24,15 @@ fields:
     - light
     - dark
   label: Header Type
-  default: Light
+  default: light
 - type: file
   name: featured_image
   label: Featured Image
+- type: boolean
+  name: no-follow
+  label: No-follow?
+- type: boolean
+  name: footer_cta
+  label: Footer CTA
 pages:
 - content/demo.md
