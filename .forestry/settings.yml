@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path: ''
+webhook_url: https://hooks.zapier.com/hooks/catch/2991165/cjmh8b/
 sections:
 - type: directory
   path: content
