@@ -15,24 +15,19 @@ fields:
   config:
     required: true
   default: Default description here
-- type: select
-  name: header_type
-  config:
-    source:
-      type: simple
-    options:
-    - light
-    - dark
-  label: Header Type
-  default: light
 - type: file
   name: featured_image
   label: Featured Image
 - type: boolean
   name: no-follow
   label: No-follow?
+  default: false
 - type: boolean
   name: footer_cta
   label: Footer CTA
+- type: boolean
+  name: header-light
+  label: Light Header
+  description: Use the light version of the header?
 pages:
 - content/demo.md
